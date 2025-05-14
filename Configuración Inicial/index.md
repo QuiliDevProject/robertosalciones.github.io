@@ -9,3 +9,5 @@ Puede ajustar la configuración de WordPress de la siguiente manera:
 
 **Paso 2**: Aquí podrás modificar el nombre del título, la descripción y el icono del sitio web.
 ![](../imagenes/datos-del-sitio.png)
+
+Comentario de prueba
