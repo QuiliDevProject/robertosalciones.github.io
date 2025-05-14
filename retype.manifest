@@ -1,6 +1,6 @@
 {
   "version": "3.8.1",
-  "created": "2025-05-14T13:54:44Z",
+  "created": "2025-05-14T14:04:37Z",
   "files": [
     {
       "path": ".nojekyll"
@@ -13,6 +13,44 @@
     },
     {
       "path": "configuración-inicial\\index.html"
+    },
+    {
+      "path": "contenido\\articulos\\index.html",
+      "old": true
+    },
+    {
+      "path": "contenido\\crear-nuevas-taxonomias\\index.html"
+    },
+    {
+      "path": "contenido\\crear-nuevos-tipos-de-contenidos\\index.html"
+    },
+    {
+      "path": "contenido\\filtrar-publicaciones-por-taxonomias\\index.html"
+    },
+    {
+      "path": "contenido\\gestionar-tipos-de-contenidos\\index.html"
+    },
+    {
+      "path": "contenido\\index.html",
+      "old": true
+    },
+    {
+      "path": "contenido\\podcast\\index.html",
+      "old": true
+    },
+    {
+      "path": "contenido\\publicar-nuevos-articulos-o-talleres\\index.html"
+    },
+    {
+      "path": "contenido\\publicar-nuevos-videos-o-podcast\\index.html"
+    },
+    {
+      "path": "contenido\\talleres\\index.html",
+      "old": true
+    },
+    {
+      "path": "contenido\\videos\\index.html",
+      "old": true
     },
     {
       "path": "imagenes\\ajustes-apariencia.png"
