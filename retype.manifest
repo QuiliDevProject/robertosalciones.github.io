@@ -1,6 +1,6 @@
 {
   "version": "3.8.1",
-  "created": "2025-05-14T14:04:37Z",
+  "created": "2025-05-14T15:23:52Z",
   "files": [
     {
       "path": ".nojekyll"
@@ -23,6 +23,10 @@
     },
     {
       "path": "contenido\\crear-nuevos-tipos-de-contenidos\\index.html"
+    },
+    {
+      "path": "contenido\\filtrar-publicaciones-por-taxonomias\\image.png",
+      "old": true
     },
     {
       "path": "contenido\\filtrar-publicaciones-por-taxonomias\\index.html"
@@ -60,6 +64,48 @@
     },
     {
       "path": "imagenes\\datos-del-sitio.png"
+    },
+    {
+      "path": "imagenes\\doc.png"
+    },
+    {
+      "path": "imagenes\\doc0.png"
+    },
+    {
+      "path": "imagenes\\doc1.jpg"
+    },
+    {
+      "path": "imagenes\\doc10.png"
+    },
+    {
+      "path": "imagenes\\doc2.jpg"
+    },
+    {
+      "path": "imagenes\\doc3.jpg"
+    },
+    {
+      "path": "imagenes\\doc4.jpg"
+    },
+    {
+      "path": "imagenes\\doc5.png"
+    },
+    {
+      "path": "imagenes\\doc6.png"
+    },
+    {
+      "path": "imagenes\\doc7.png"
+    },
+    {
+      "path": "imagenes\\doc8.png"
+    },
+    {
+      "path": "imagenes\\doc9.png"
+    },
+    {
+      "path": "imagenes\\loopgriddoc.png"
+    },
+    {
+      "path": "imagenes\\taxonomyfilterdoc.png"
     },
     {
       "path": "index.html"
