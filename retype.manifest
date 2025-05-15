@@ -1,6 +1,6 @@
 {
   "version": "3.8.1",
-  "created": "2025-05-14T15:29:32Z",
+  "created": "2025-05-15T08:17:53Z",
   "files": [
     {
       "path": ".nojekyll"
@@ -63,6 +63,12 @@
       "path": "imagenes\\ajustes-generales.png"
     },
     {
+      "path": "imagenes\\añadir_entrada.png"
+    },
+    {
+      "path": "imagenes\\añadir_taller.png"
+    },
+    {
       "path": "imagenes\\datos-del-sitio.png"
     },
     {
@@ -78,7 +84,61 @@
       "path": "imagenes\\doc10.png"
     },
     {
+      "path": "imagenes\\doc11.png"
+    },
+    {
+      "path": "imagenes\\doc12.png"
+    },
+    {
+      "path": "imagenes\\doc13.png"
+    },
+    {
+      "path": "imagenes\\doc14.png"
+    },
+    {
+      "path": "imagenes\\doc15.png"
+    },
+    {
+      "path": "imagenes\\doc16.png"
+    },
+    {
+      "path": "imagenes\\doc17.png"
+    },
+    {
+      "path": "imagenes\\doc18.png"
+    },
+    {
+      "path": "imagenes\\doc19.png"
+    },
+    {
       "path": "imagenes\\doc2.jpg"
+    },
+    {
+      "path": "imagenes\\doc20.png"
+    },
+    {
+      "path": "imagenes\\doc21.png"
+    },
+    {
+      "path": "imagenes\\doc22.png"
+    },
+    {
+      "path": "imagenes\\doc23.png"
+    },
+    {
+      "path": "imagenes\\doc24.png"
+    },
+    {
+      "path": "imagenes\\doc25.png"
+    },
+    {
+      "path": "imagenes\\doc26.png"
+    },
+    {
+      "path": "imagenes\\doc27.png"
+    },
+    {
+      "path": "imagenes\\doc28.png"
     },
     {
       "path": "imagenes\\doc3.jpg"
