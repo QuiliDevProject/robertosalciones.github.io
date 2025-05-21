@@ -1,6 +1,6 @@
 {
   "version": "3.8.1",
-  "created": "2025-05-15T08:17:53Z",
+  "created": "2025-05-21T15:25:35Z",
   "files": [
     {
       "path": ".nojekyll"
@@ -55,6 +55,21 @@
     {
       "path": "contenido\\videos\\index.html",
       "old": true
+    },
+    {
+      "path": "footer\\añadir-una-nueva-red-social\\index.html"
+    },
+    {
+      "path": "footer\\eliminar-una-red-social\\index.html"
+    },
+    {
+      "path": "footer\\modificar-las-redes-sociales\\index.html"
+    },
+    {
+      "path": "footer\\modificar-los-redireccionamiento\\index.html"
+    },
+    {
+      "path": "footer\\modificar-los-texto-de-contacto\\index.html"
     },
     {
       "path": "imagenes\\ajustes-apariencia.png"
@@ -141,7 +156,31 @@
       "path": "imagenes\\doc28.png"
     },
     {
+      "path": "imagenes\\doc29.png"
+    },
+    {
       "path": "imagenes\\doc3.jpg"
+    },
+    {
+      "path": "imagenes\\doc30.png"
+    },
+    {
+      "path": "imagenes\\doc31.png"
+    },
+    {
+      "path": "imagenes\\doc32.png"
+    },
+    {
+      "path": "imagenes\\doc33.png"
+    },
+    {
+      "path": "imagenes\\doc34.png"
+    },
+    {
+      "path": "imagenes\\doc35.png"
+    },
+    {
+      "path": "imagenes\\doc36.png"
     },
     {
       "path": "imagenes\\doc4.jpg"
