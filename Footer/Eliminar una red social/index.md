@@ -10,7 +10,6 @@ Puede eliminar las redes sociales del footer de la siguiente manera:
 **Paso 2**: Seleccione la sección para editar las redes sociales. Para ello, hay 2 maneras de hacerlo. La primera es **clicando encima** de las redes sociales. La segunda es **desde estructura**. 
 **Opcion 1**:
 ![Opción 1](../../imagenes/doc30.png)
----
 **Opción 2**:
 ![Opción 2](../../imagenes/doc31.png)
 

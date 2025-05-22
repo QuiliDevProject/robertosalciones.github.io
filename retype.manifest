@@ -1,6 +1,6 @@
 {
   "version": "3.8.1",
-  "created": "2025-05-21T15:25:35Z",
+  "created": "2025-05-22T11:22:43Z",
   "files": [
     {
       "path": ".nojekyll"
@@ -82,6 +82,9 @@
     },
     {
       "path": "imagenes\\añadir_taller.png"
+    },
+    {
+      "path": "imagenes\\captura-de-pantalla-2025-05-22-131154.jpg"
     },
     {
       "path": "imagenes\\datos-del-sitio.png"
@@ -183,7 +186,43 @@
       "path": "imagenes\\doc36.png"
     },
     {
+      "path": "imagenes\\doc37.jpg"
+    },
+    {
+      "path": "imagenes\\doc38.jpg"
+    },
+    {
+      "path": "imagenes\\doc39.jpg"
+    },
+    {
       "path": "imagenes\\doc4.jpg"
+    },
+    {
+      "path": "imagenes\\doc40.png"
+    },
+    {
+      "path": "imagenes\\doc41.jpg"
+    },
+    {
+      "path": "imagenes\\doc42.jpg"
+    },
+    {
+      "path": "imagenes\\doc43.jpg"
+    },
+    {
+      "path": "imagenes\\doc44.png"
+    },
+    {
+      "path": "imagenes\\doc45.jpg"
+    },
+    {
+      "path": "imagenes\\doc46.jpg"
+    },
+    {
+      "path": "imagenes\\doc47.png"
+    },
+    {
+      "path": "imagenes\\doc49.jpg"
     },
     {
       "path": "imagenes\\doc5.png"
@@ -208,6 +247,15 @@
     },
     {
       "path": "index.html"
+    },
+    {
+      "path": "paginas\\crear-nuevas-paginas\\index.html"
+    },
+    {
+      "path": "paginas\\eliminar-paginas\\index.html"
+    },
+    {
+      "path": "paginas\\modificar-paginas\\index.html"
     },
     {
       "path": "resources\\css\\retype.css"
