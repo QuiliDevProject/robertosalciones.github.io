@@ -10,14 +10,15 @@
 
 1. Acceder a Loco Translate
    Cómo entrar a la interfaz de Loco Translate desde el panel de administración.
-![](../imagenes/loco-trans0.png)
+![](/imagenes/loco-trans0.png)
+
 1. Seleccionar el plugin Eventin 
    Pasos para elegir Eventin dentro de Loco Translate para empezar a traducir.
-![](../imagenes/loco-trans1.png)
-![](../imagenes/loco-trans1-1.png)
+![](/imagenes/loco-trans1.png)
+![](/imagenes/loco-trans1-1.png)
 2. Editar las cadenas de texto
    Explicación sobre cómo localizar y modificar las frases y textos que aparecen en Eventin.
-![](../imagenes/loco-trans3.png)
+![](/imagenes/loco-trans3.png)
 
 3. Guardar y compilar traducciones 
    Instrucciones para guardar los cambios y generar los archivos de traducción.

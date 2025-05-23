@@ -3,7 +3,7 @@
 Puede crear un nuevo evento de la siguiente manera:
 
 **Paso 1**: Haga click encima del boton de configuracion. Despues, haga click encima de la opción de **editar**.
-![Editar evento](../../imagenes/doc66.png.png)
+![Editar evento](../../imagenes/doc66.png)
 
 ---
 
