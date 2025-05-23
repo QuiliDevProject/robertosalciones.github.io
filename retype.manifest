@@ -1,6 +1,6 @@
 {
   "version": "3.8.1",
-  "created": "2025-05-22T11:22:43Z",
+  "created": "2025-05-23T17:43:59Z",
   "files": [
     {
       "path": ".nojekyll"
@@ -9,10 +9,35 @@
       "path": "404.html"
     },
     {
+      "path": "calendly\\configurar-el-perfil\\index.html"
+    },
+    {
+      "path": "calendly\\configurar-la-marca\\index.html"
+    },
+    {
+      "path": "calendly\\crear-un-nuevo-evento\\index.html"
+    },
+    {
+      "path": "calendly\\eliminar-evento\\index.html"
+    },
+    {
+      "path": "calendly\\modificar-un-evento\\index.html"
+    },
+    {
       "path": "CNAME"
     },
     {
-      "path": "configuración-inicial\\index.html"
+      "path": "conferencias-y-talleres\\crear-evento\\index.html"
+    },
+    {
+      "path": "conferencias-y-talleres\\video-referenciales\\index.html"
+    },
+    {
+      "path": "configuración-inicial\\configuración\\index.html"
+    },
+    {
+      "path": "configuración-inicial\\index.html",
+      "old": true
     },
     {
       "path": "contenido\\articulos\\index.html",
@@ -78,13 +103,58 @@
       "path": "imagenes\\ajustes-generales.png"
     },
     {
+      "path": "imagenes\\ajustes-menu-header1.png"
+    },
+    {
+      "path": "imagenes\\ajustes-menu-header2.png"
+    },
+    {
+      "path": "imagenes\\ajustes-menu-header3.png"
+    },
+    {
+      "path": "imagenes\\ajustes-menu-header4.png"
+    },
+    {
+      "path": "imagenes\\ajustes-redes-sociales1.png"
+    },
+    {
+      "path": "imagenes\\ajustes-redes-sociales2.png"
+    },
+    {
       "path": "imagenes\\añadir_entrada.png"
     },
     {
       "path": "imagenes\\añadir_taller.png"
     },
     {
+      "path": "imagenes\\cambiar-logo1.png"
+    },
+    {
+      "path": "imagenes\\cambiar-logo2.png"
+    },
+    {
       "path": "imagenes\\captura-de-pantalla-2025-05-22-131154.jpg"
+    },
+    {
+      "path": "imagenes\\crear-evento-1.png"
+    },
+    {
+      "path": "imagenes\\crear-evento-2.png"
+    },
+    {
+      "path": "imagenes\\crear-evento-3.png"
+    },
+    {
+      "path": "imagenes\\crear-evento-4.png"
+    },
+    {
+      "path": "imagenes\\crear-evento-6.png"
+    },
+    {
+      "path": "imagenes\\crear-evento-ticket.png"
+    },
+    {
+      "path": "imagenes\\crear-evento5.png"
     },
     {
       "path": "imagenes\\datos-del-sitio.png"
@@ -228,7 +298,55 @@
       "path": "imagenes\\doc5.png"
     },
     {
+      "path": "imagenes\\doc51.png"
+    },
+    {
+      "path": "imagenes\\doc52.png"
+    },
+    {
+      "path": "imagenes\\doc53.png"
+    },
+    {
+      "path": "imagenes\\doc54.png"
+    },
+    {
+      "path": "imagenes\\doc55.png"
+    },
+    {
+      "path": "imagenes\\doc56.png"
+    },
+    {
+      "path": "imagenes\\doc57.png"
+    },
+    {
+      "path": "imagenes\\doc58.png"
+    },
+    {
+      "path": "imagenes\\doc59.png"
+    },
+    {
       "path": "imagenes\\doc6.png"
+    },
+    {
+      "path": "imagenes\\doc60.png"
+    },
+    {
+      "path": "imagenes\\doc61.png"
+    },
+    {
+      "path": "imagenes\\doc62.png"
+    },
+    {
+      "path": "imagenes\\doc63.png"
+    },
+    {
+      "path": "imagenes\\doc64.png"
+    },
+    {
+      "path": "imagenes\\doc65.png"
+    },
+    {
+      "path": "imagenes\\doc66.png"
     },
     {
       "path": "imagenes\\doc7.png"
@@ -240,13 +358,43 @@
       "path": "imagenes\\doc9.png"
     },
     {
+      "path": "imagenes\\evento-vista-previa.png"
+    },
+    {
+      "path": "imagenes\\loco-trans0.png"
+    },
+    {
+      "path": "imagenes\\loco-trans1-1.png"
+    },
+    {
+      "path": "imagenes\\loco-trans1.png"
+    },
+    {
+      "path": "imagenes\\loco-trans2.png"
+    },
+    {
+      "path": "imagenes\\loco-trans3.png"
+    },
+    {
       "path": "imagenes\\loopgriddoc.png"
+    },
+    {
+      "path": "imagenes\\plugin-eventin.png"
+    },
+    {
+      "path": "imagenes\\screenshot_1.png"
     },
     {
       "path": "imagenes\\taxonomyfilterdoc.png"
     },
     {
       "path": "index.html"
+    },
+    {
+      "path": "logo-principal\\cambiar-logo\\index.html"
+    },
+    {
+      "path": "menu-header\\editar-elementos-menu\\index.html"
     },
     {
       "path": "paginas\\crear-nuevas-paginas\\index.html"
@@ -256,6 +404,12 @@
     },
     {
       "path": "paginas\\modificar-paginas\\index.html"
+    },
+    {
+      "path": "plugin-traductor\\traducir-plugin-de-eventos\\index.html"
+    },
+    {
+      "path": "redes-sociales\\editar-elementos-redes-sociales\\index.html"
     },
     {
       "path": "resources\\css\\retype.css"
@@ -302,6 +456,12 @@
     },
     {
       "path": "sitemap.xml.gz"
+    },
+    {
+      "path": "uso-de-mailpoet\\mailpoet\\index.html"
+    },
+    {
+      "path": "usuarios\\index.html"
     }
   ]
 }
