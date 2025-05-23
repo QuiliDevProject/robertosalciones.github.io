@@ -23,7 +23,7 @@ Puede crear un nuevo evento de la siguiente manera:
 ---
 
 **Paso 5**: Escoga si su evento se hara en presencial, por llamada, u otro tipo de forma. Y despues meta los datos relacionados con esa forma de evento.
-![Forma-Evento](../../imagenes/doc56.png.png)
+![Forma-Evento](../../imagenes/doc56.png)
 
 ---
 
