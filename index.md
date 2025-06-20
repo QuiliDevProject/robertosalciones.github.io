@@ -26,6 +26,22 @@ El dominio es:
 | reservas@robertosalcines.com | Flying2025!!! |
 
 ---
+### Credenciales de MailPoet
+Link de acceso:
+[https://account.mailpoet.com/login](https://account.mailpoet.com/login) (MailPoet)
+
+| **Correo**                | **Contraseña**   |
+|:------------------------:|:----------------:|
+| noticias@robertosalcines.com | Flying2023!!! |
+
+
+### Credenciales de Calendly
+
+| **Correo**                | **Contraseña**   |
+|:------------------------:|:----------------:|
+| reservas@robertosalcines.com | Flying2023!!! |
+
+---
 
 ## Acceder al buzón de correo mediante Webmail
 
@@ -34,20 +50,19 @@ Si has contratado varias cuentas para personas distintas, esta opción permite q
 ### Pasos para acceder
 
 1. Accede a la URL:  
-   [https://hostalia.webmail.es](https://hostalia.webmail.es)  
+   [https://mail.hostinger.com/](https://mail.hostinger.com/)  
    Introduce tus credenciales (email y contraseña).
 
-   **Nota:** Si dispones de un entorno Webmail de Marca Blanca, puedes acceder desde:  
-   [https://correo.webmail.es/](https://correo.webmail.es/)
+### Credenciales de correo
+
+| **Correo**                | **Contraseña**   |
+|:------------------------:|:----------------:|
+| hola@robertosalcines.com | Flying2025!!!    |
+| noticias@robertosalcines.com | Flying2025!!! |
+| reservas@robertosalcines.com | Flying2025!!! |
 
 
-    ![](https://ayuda.hostalia.com/hc/article_attachments/360011220577/Acceso_Webmail.png)
-
-
-2. Para almacenar las claves de acceso en el equipo local, marca la casilla a la izquierda de **Mantenerse conectado**.  
-   *Recuerda:* Utiliza esta opción solo si el ordenador es de uso personal.
-
-3. Pulsa **CONECTARSE**.
+3. Pulsa **Inisiar sesión**.
 
 ---
 
